@@ -9,7 +9,7 @@ Project structure:
 └── README.md
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```
 services:
   gitea:
@@ -53,7 +53,7 @@ CONTAINER ID        IMAGE                COMMAND                  CREATED       
 Navigate to `http://localhost:3000` in your web browser to access the installed
 Gitea service.
 
-![page](output.jpg)
+![image](https://user-images.githubusercontent.com/110657529/209975790-b321375c-30b5-4070-af4d-cd7f063df735.png)
 
 Stop and remove the containers
 
